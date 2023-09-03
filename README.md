@@ -18,6 +18,9 @@
   - [File permissions in Linux](https://docs.google.com/document/d/1qUJg5YS9V0sw_QUUeE6iNiu4lTNgmRlhp7oocgCn9lE/edit?usp=sharing)
 - <b>Analyze a vulnerable system for a small business</b>
   - [Vulnerability assessment report](https://docs.google.com/document/d/1nR361BEhqBghKN7sEVSLoJmwuz7t3W6UoyuQyJVOzLI/edit?usp=sharing&resourcekey=0-2IGNKdzvGeOr12JNgIC8LA)
+- <b>PYTHON</b>
+  - [Update a file through a Python algorithm](https://docs.google.com/document/d/1_MLC8sIHuzHwNrmehoi7kjl_yJMWwj4BVwdik5X0T3g/edit?usp=sharing&resourcekey=0-caOnpDqXs06CtU_DS2IjJg)
+
 
 
 <h2> 🤳 Connect with me:</h2>
